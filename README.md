@@ -1,5 +1,5 @@
 <div style='background-color: #251452; position: absolute;'>
-![profile header](/header.png)
+<img src='/header' />
 <center>Computers lover and early adopter of the internet</center>
 <img 
 style="border-radius: 50%;"
