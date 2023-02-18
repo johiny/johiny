@@ -1,5 +1,5 @@
 <div style='background-color: #251452; position: absolute;'>
-<img src='/header' />
+<img src='https://i.ibb.co/k36RmKD/descarga.png' />
 <center>Computers lover and early adopter of the internet</center>
 <img 
 style="border-radius: 50%;"
