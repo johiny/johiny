@@ -1,5 +1,6 @@
-<svg fill="none" viewBox="0 0 800 800" width="800" height="800">
-	<foreignObject width="100%" height="100%">
+<svg fill="none" viewBox="0 0 800 800" width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
                 @import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2&family=Fira+Mono&family=IBM+Plex+Mono&family=Inter&family=PT+Serif&family=Playfair+Display&family=Red+Rose&family=Roboto&display=swap');
 				@keyframes rotate {
@@ -157,5 +158,6 @@
                 </div>
                 </div>
 			</div>
+      </div>
 	</foreignObject>
 </svg>
