@@ -82,8 +82,13 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
+				<div class="header">
+                    <div>
+                    <h1 class="greeting">
+                    Hi<div class="hand">👋</div>, I'm</br></h1>
+                    <h1 class="name">Johiny<div class="card">🎴</div></h1>
+                    </div>
+                </div>
 			</div>
 		</div>
 	</foreignObject>
