@@ -1,1 +1,1 @@
-![readme](readme_ack.svg)
+![readme](readme_hack.svg)
