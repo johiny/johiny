@@ -1,1 +1,1 @@
-![ReadHack](/readme_hack.svg)
+![ReadHack](readme_hack.svg)
