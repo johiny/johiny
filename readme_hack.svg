@@ -85,8 +85,8 @@
 				<div class="header">
                     <div>
                     <h1 class="greeting">
-                    Hi<div class="hand">👋</div>, I'm</br></h1>
-                    <h1 class="name">Johiny<div class="card">🎴</div></h1>
+                    Hi<div class="hand"></div>, I'm</br></h1>
+                    <h1 class="name">Johiny<div class="card"></div></h1>
                     </div>
                 </div>
 			</div>
