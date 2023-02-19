@@ -34,7 +34,7 @@
 					flex-direction: column;
 					margin: 0;
 					width: 100%;
-					height: 100%;
+					height: 800px;
 					background: #251452;
 					color: white;
 				}
